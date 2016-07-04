@@ -1,0 +1,6 @@
+framework module Pods_quick_chat {
+  umbrella header "Pods-quick-chat-umbrella.h"
+
+  export *
+  module * { export * }
+}
